@@ -1,0 +1,27 @@
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+img {
+  max-width: 100%;
+}
+
+/* Main Object */
+.octocat {
+  width: 300px;
+  display: inline-block;
+  margin-right: 10px;
+}
+
+.octocat img {
+  border: 1px solid grey;
+}
+
+/*Footer Area*/
+
+
+/*Authors Area*/
+.authors img {
+  width: 25px;
+}
